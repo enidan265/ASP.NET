@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A237BB9-6DA4-48A4-9BD3-749CACA687B4}|WebApplication1\\WebApplication1.csproj|c:\\users\\nadin\\source\\repos\\webapplication1\\webapplication1\\views\\employee\\createeditemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A237BB9-6DA4-48A4-9BD3-749CACA687B4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\createeditemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateEditEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Employee\\CreateEditEmployee.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\CreateEditEmployee.cshtml",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Employee\\CreateEditEmployee.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\CreateEditEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-16T22:28:43.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
