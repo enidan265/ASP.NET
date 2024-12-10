@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\webdiaryapi\\webdiaryapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|solutionrelative:webdiaryapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\webdiaryapi\\webdiaryapi\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|solutionrelative:webdiaryapi\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\webdiaryapi\\webdiaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|solutionrelative:webdiaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\webdiaryapi\\webdiaryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|solutionrelative:webdiaryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\webdiaryapi\\webdiaryapi\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED46F4B-C408-41C8-B1E4-96D6EFE6EF35}|WebDiaryAPI\\WebDiaryAPI.csproj|solutionrelative:webdiaryapi\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiaryEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Controllers\\DiaryEntriesController.cs",
+              "RelativeDocumentMoniker": "WebDiaryAPI\\Controllers\\DiaryEntriesController.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Controllers\\DiaryEntriesController.cs",
+              "RelativeToolTip": "WebDiaryAPI\\Controllers\\DiaryEntriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:19:39.593Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebDiaryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Program.cs",
+              "RelativeToolTip": "WebDiaryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:36:13.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebDiaryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\appsettings.json",
+              "RelativeToolTip": "WebDiaryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T17:32:49.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "WebDiaryAPI\\Models\\DiaryEntry.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "WebDiaryAPI\\Models\\DiaryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:30:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebDiaryAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\WebDiaryAPI\\WebDiaryAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebDiaryAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:41.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
