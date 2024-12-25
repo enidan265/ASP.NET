@@ -1,0 +1,19 @@
+﻿@model IEnumerable<DevSpot.Models.JobPosting>;
+
+@{
+}
+
+<h1 class="text-center m-5">All Developer Jobs</h1>
+
+<div class="list-group">
+    @foreach(var jopPosting in Model)
+    {
+        <div class="list-group-item">
+            <h3>@jopPosting.Title</h3>
+            <p>@jopPosting.Description</p>
+            <p><strong>Company:</strong> @jopPosting.Company</p>
+            <p><strong>Location:</strong> @jopPosting.Location</p>
+            <p><strong>Posted Date:</strong> @jopPosting.PostedDate.ToShortDateString()</p>
+        </div>
+    }
+</div>

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C3D3A2C-D1CB-4C38-9769-F1E81032E859}|DevSpot.Tests\\DevSpot.Tests.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot.tests\\jobpostingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3D3A2C-D1CB-4C38-9769-F1E81032E859}|DevSpot.Tests\\DevSpot.Tests.csproj|solutionrelative:devspot.tests\\jobpostingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\views\\jobpostings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38F9EF2-D9DE-429E-8589-CFD093773E26}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "JobPosting.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Models\\JobPosting.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
-              "RelativeToolTip": "DevSpot\\Models\\JobPosting.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:43:23.132Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "RelativeToolTip": "DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:36:49.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JobPostingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Repositories\\JobPostingRepository.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Repositories\\JobPostingRepository.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Repositories\\JobPostingRepository.cs",
-              "RelativeToolTip": "DevSpot\\Repositories\\JobPostingRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:36:47.622Z",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DevSpot\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:48:17.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobPostingRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot.Tests\\JobPostingRepositoryTests.cs",
-              "RelativeDocumentMoniker": "DevSpot.Tests\\JobPostingRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot.Tests\\JobPostingRepositoryTests.cs",
-              "RelativeToolTip": "DevSpot.Tests\\JobPostingRepositoryTests.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAQwKEAAAAxAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\JobPostings\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Views\\JobPostings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Views\\JobPostings\\Index.cshtml",
+              "RelativeToolTip": "DevSpot\\Views\\JobPostings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:50:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Program.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeToolTip": "DevSpot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:18:40.78Z",
+              "WhenOpened": "2024-12-25T08:40:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobPostingsController.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Controllers\\JobPostingsController.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Controllers\\JobPostingsController.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\DevSpot\\DevSpot\\Controllers\\JobPostingsController.cs",
+              "RelativeToolTip": "DevSpot\\Controllers\\JobPostingsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:39:33.514Z",
               "EditorCaption": ""
             }
           ]
