@@ -52,6 +52,10 @@
   <li><b>Controller Authorization</b></li>
   </p>
 
+  <p>
+  <li><b>JavaScript, AJAX, JQuery</b></li>
+  </p>
+
 Topics weiter ergänzen, wenn gelernt 
 
   

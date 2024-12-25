@@ -1,5 +1,6 @@
 ﻿using DevSpot.Repositories;
 using DevSpot.Models;
+using DevSpot.Constants;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
 using DevSpot.ViewModels;
@@ -22,7 +23,17 @@ namespace DevSpot.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
+            if (User.IsInRole(Roles.EMPLOYER))
+            {
+                var allJobPostings = await _repository.GetAllAsync();
+                var userId = _userManager.GetUserId(User);
+                var filteredJobPostings = allJobPostings.Where(jp => jp.UserId == userId);
+
+                return View(filteredJobPostings);
+            }
+
             var jobPostings = await _repository.GetAllAsync();
+
             return View(jobPostings);
         }
 
@@ -54,5 +65,29 @@ namespace DevSpot.Controllers
 
             return View(jobPostingVm);
         }
+        
+        [HttpDelete]
+        [Authorize(Roles = "Admin,Employer")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var jobPosting = await _repository.GetByIdAsync(id);
+
+            if(jobPosting == null)
+            {
+                return NotFound();
+            }
+
+            var userId = _userManager.GetUserId(User);
+
+            if(User.IsInRole(Roles.ADMIN) == false && jobPosting.UserId != userId)
+            {
+                return Forbid();
+            }
+
+            await _repository.DeleteAsync(id);
+            
+            return Ok();
+        }
+
     }
 }
