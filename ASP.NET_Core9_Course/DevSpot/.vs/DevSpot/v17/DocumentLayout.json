@@ -42,8 +42,7 @@
               "RelativeToolTip": "DevSpot\\Views\\JobPostings\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T11:36:49.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T11:36:49.818Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "DevSpot\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T10:48:17.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T10:48:17.861Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "DevSpot\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:40:05.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:40:05.15Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "DevSpot\\Controllers\\JobPostingsController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T08:39:33.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T08:39:33.514Z"
             }
           ]
         }
