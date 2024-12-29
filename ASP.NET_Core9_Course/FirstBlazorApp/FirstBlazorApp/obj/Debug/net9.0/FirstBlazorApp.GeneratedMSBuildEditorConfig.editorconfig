@@ -28,10 +28,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/Layout/Item.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEl0ZW0ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/Pages/Converter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/Shared/Item.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,3 +63,7 @@ build_metadata.AdditionalFiles.CssScope = b-m6z1a61b98
 [C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-dlyzn9iq34
+
+[C:/Users/nadin/source/repos/ASP.NET/ASP.NET_Core9_Course/FirstBlazorApp/FirstBlazorApp/Layout/ShoppingListLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFNob3BwaW5nTGlzdExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tepxh3nige

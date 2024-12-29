@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\firstblazorapp\\firstblazorapp\\layout\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\layout\\item.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\firstblazorapp\\firstblazorapp\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\layout\\shoppinglistlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\firstblazorapp\\firstblazorapp\\layout\\shoppinglistlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|solutionrelative:firstblazorapp\\layout\\shoppinglistlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06CBFF1B-25E6-46C2-8FE2-BEE488CB78BD}|FirstBlazorApp\\FirstBlazorApp.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\firstblazorapp\\firstblazorapp\\pages\\shoppinglist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.razor",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\Item.razor",
-              "RelativeDocumentMoniker": "FirstBlazorApp\\Layout\\Item.razor",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\Item.razor*",
-              "RelativeToolTip": "FirstBlazorApp\\Layout\\Item.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T11:13:37.956Z",
+              "DocumentIndex": 1,
+              "Title": "ShoppingListLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\ShoppingListLayout.razor.css",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Layout\\ShoppingListLayout.razor.css",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\ShoppingListLayout.razor.css",
+              "RelativeToolTip": "FirstBlazorApp\\Layout\\ShoppingListLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T11:21:09.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ShoppingListLayout.razor",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\ShoppingListLayout.razor",
+              "RelativeDocumentMoniker": "FirstBlazorApp\\Layout\\ShoppingListLayout.razor",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Layout\\ShoppingListLayout.razor",
+              "RelativeToolTip": "FirstBlazorApp\\Layout\\ShoppingListLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T10:43:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ShoppingList.razor",
               "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Pages\\ShoppingList.razor",
               "RelativeDocumentMoniker": "FirstBlazorApp\\Pages\\ShoppingList.razor",
               "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\Pages\\ShoppingList.razor",
               "RelativeToolTip": "FirstBlazorApp\\Pages\\ShoppingList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-26T09:41:08.046Z",
               "EditorCaption": ""
