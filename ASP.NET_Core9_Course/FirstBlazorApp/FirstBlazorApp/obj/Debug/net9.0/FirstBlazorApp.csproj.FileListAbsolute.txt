@@ -1077,10 +1077,10 @@ C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBla
 C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\scopedcss\Layout\ShoppingListLayout.razor.rz.scp.css
 C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\1py181f8zo-ewuvnxgqp2.gz
 C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\inzra1mqcd-ewuvnxgqp2.gz
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.9vu3cff0xo.pdb
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.fgh82z9lyc.wasm
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.fgh82z9lyc.wasm.gz
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.9vu3cff0xo.pdb.gz
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\v4y5y29f72-fgh82z9lyc.gz
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\w0gsb1zsqe-9vu3cff0xo.gz
-C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\krt0x203fh-v36j58u52a.gz
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.bs4pieh5np.pdb
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.tcc8i4y8df.wasm
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.tcc8i4y8df.wasm.gz
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\bin\Debug\net9.0\wwwroot\_framework\FirstBlazorApp.bs4pieh5np.pdb.gz
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\v4y5y29f72-tcc8i4y8df.gz
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\w0gsb1zsqe-bs4pieh5np.gz
+C:\Users\nadin\source\repos\ASP.NET\ASP.NET_Core9_Course\FirstBlazorApp\FirstBlazorApp\obj\Debug\net9.0\compressed\krt0x203fh-uxwn3mi09y.gz

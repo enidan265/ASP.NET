@@ -1,0 +1,60 @@
+﻿using Microsoft.AspNetCore.Components.Forms;
+
+namespace File_Upload.Services
+{
+    public interface IFileUpload
+    {
+        Task UploadFile(IBrowserFile file);
+        Task<string> GeneratePreviewUrl(IBrowserFile file);
+    }
+    public class FileUpload : IFileUpload
+    {
+        private IWebHostEnvironment _webHostEvironment;
+        private readonly ILogger<FileUpload> _logger;
+        
+        public FileUpload(IWebHostEnvironment webHostEnvironment, ILogger<FileUpload> logger)
+        {
+            _webHostEvironment = webHostEnvironment;
+            _logger = logger;
+        }
+
+        public async Task UploadFile(IBrowserFile file)
+        {
+            if(file != null)
+            {
+                try
+                {
+                    var uploadPath = Path.Combine(_webHostEvironment.WebRootPath, "uploads", file.Name);
+
+                    using (var stream = file.OpenReadStream())
+                    {
+                        var fileStream = File.Create(uploadPath);
+                        await stream.CopyToAsync(fileStream);
+                        fileStream.Close();
+                    }
+
+                }
+                catch (Exception ex)
+                {
+                    _logger.LogError(ex.ToString());
+                }
+            }
+        }
+
+        public async Task<string> GeneratePreviewUrl(IBrowserFile file)
+        {
+            if (!file.ContentType.Contains("image"))
+            {
+                if (file.ContentType.Contains("pdf"))
+                {
+                    return "images/pdf_logo.png";
+                }
+            }
+
+            var resizedImage = await file.RequestImageFileAsync(file.ContentType, 100, 100);
+            var buffer = new byte[resizedImage.Size];
+            await resizedImage.OpenReadStream().ReadAsync(buffer);
+            return $"data:{file.ContentType};base64,{Convert.ToBase64String(buffer)}";
+        }
+    }
+}

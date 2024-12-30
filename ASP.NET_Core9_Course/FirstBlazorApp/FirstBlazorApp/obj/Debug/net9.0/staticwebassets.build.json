@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z+YkvH2m/CrCwOWj+YUDKarLRHUExkWaPGESiTlqd+U=",
+  "Hash": "BISnjZEQ+xFI60Z4T19IBN5UHnl67Ee9NqtTrRxCHcI=",
   "Source": "FirstBlazorApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "v36j58u52a",
-      "Integrity": "VfWHSrpmVy7GK8XdpEVEgctViAfMCjXPcXucLweiAGU=",
+      "Fingerprint": "uxwn3mi09y",
+      "Integrity": "giFIxsKXGNdC/YMmFzE8ODai6Tz2q7WQ1RM1fAo96qs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9vu3cff0xo",
-      "Integrity": "+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM=",
+      "Fingerprint": "bs4pieh5np",
+      "Integrity": "hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\FirstBlazorApp.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "fgh82z9lyc",
-      "Integrity": "oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8=",
+      "Fingerprint": "tcc8i4y8df",
+      "Integrity": "jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\webcil\\FirstBlazorApp.wasm"
@@ -7220,7 +7220,7 @@
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm"
     },
     {
-      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-v36j58u52a.gz",
+      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-uxwn3mi09y.gz",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -7234,8 +7234,8 @@
       "RelatedAsset": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wk2coss0gd",
-      "Integrity": "EGBTrc0RBe8jws9XyDbTvkF5TFVHKPrmiwsMOIOu/H0=",
+      "Fingerprint": "68cw6r13ye",
+      "Integrity": "5udjzUdX6IpmAF5QZyqR0EqkgBOOpAhE6E1XlcTrDco=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8858,12 +8858,12 @@
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
     },
     {
-      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-fgh82z9lyc.gz",
+      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-tcc8i4y8df.gz",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FirstBlazorApp#[.{fingerprint=fgh82z9lyc}]!.wasm.gz",
+      "RelativePath": "_framework/FirstBlazorApp#[.{fingerprint=tcc8i4y8df}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8872,8 +8872,8 @@
       "RelatedAsset": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pdb2c7uvwe",
-      "Integrity": "47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4=",
+      "Fingerprint": "hmzbqe45sr",
+      "Integrity": "GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.wasm"
@@ -8984,12 +8984,12 @@
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-9vu3cff0xo.gz",
+      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-bs4pieh5np.gz",
       "SourceId": "FirstBlazorApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/FirstBlazorApp#[.{fingerprint=9vu3cff0xo}]!.pdb.gz",
+      "RelativePath": "_framework/FirstBlazorApp#[.{fingerprint=bs4pieh5np}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n8w6xpidm4",
-      "Integrity": "tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y=",
+      "Fingerprint": "1m6kuusa1c",
+      "Integrity": "h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VfWHSrpmVy7GK8XdpEVEgctViAfMCjXPcXucLweiAGU=\""
+          "Value": "\"giFIxsKXGNdC/YMmFzE8ODai6Tz2q7WQ1RM1fAo96qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-giFIxsKXGNdC/YMmFzE8ODai6Tz2q7WQ1RM1fAo96qs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-uxwn3mi09y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000080866893"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12365"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5udjzUdX6IpmAF5QZyqR0EqkgBOOpAhE6E1XlcTrDco=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VfWHSrpmVy7GK8XdpEVEgctViAfMCjXPcXucLweiAGU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-v36j58u52a.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000080893059"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12361"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EGBTrc0RBe8jws9XyDbTvkF5TFVHKPrmiwsMOIOu/H0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:47:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VfWHSrpmVy7GK8XdpEVEgctViAfMCjXPcXucLweiAGU=\""
+          "Value": "W/\"giFIxsKXGNdC/YMmFzE8ODai6Tz2q7WQ1RM1fAo96qs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VfWHSrpmVy7GK8XdpEVEgctViAfMCjXPcXucLweiAGU="
+          "Value": "sha256-giFIxsKXGNdC/YMmFzE8ODai6Tz2q7WQ1RM1fAo96qs="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-v36j58u52a.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\krt0x203fh-uxwn3mi09y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12361"
+          "Value": "12365"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EGBTrc0RBe8jws9XyDbTvkF5TFVHKPrmiwsMOIOu/H0=\""
+          "Value": "\"5udjzUdX6IpmAF5QZyqR0EqkgBOOpAhE6E1XlcTrDco=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:47:11 GMT"
+          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EGBTrc0RBe8jws9XyDbTvkF5TFVHKPrmiwsMOIOu/H0="
+          "Value": "sha256-5udjzUdX6IpmAF5QZyqR0EqkgBOOpAhE6E1XlcTrDco="
         }
       ]
     },
@@ -12749,7 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/FirstBlazorApp.9vu3cff0xo.pdb",
+      "Route": "_framework/FirstBlazorApp.bs4pieh5np.pdb",
       "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12759,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31456"
+          "Value": "31460"
         },
         {
           "Name": "Content-Type",
@@ -12767,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM=\""
+          "Value": "\"hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:01 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12781,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9vu3cff0xo"
+          "Value": "bs4pieh5np"
         },
         {
           "Name": "label",
@@ -12789,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM="
+          "Value": "sha256-hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14="
         }
       ]
     },
     {
-      "Route": "_framework/FirstBlazorApp.9vu3cff0xo.pdb",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-9vu3cff0xo.gz",
+      "Route": "_framework/FirstBlazorApp.bs4pieh5np.pdb",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-bs4pieh5np.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041816509"
+          "Quality": "0.000041814761"
         }
       ],
       "ResponseHeaders": [
@@ -12810,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23913"
+          "Value": "23914"
         },
         {
           "Name": "ETag",
-          "Value": "\"tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y=\""
+          "Value": "\"h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12838,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM=\""
+          "Value": "W/\"hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9vu3cff0xo"
+          "Value": "bs4pieh5np"
         },
         {
           "Name": "label",
@@ -12852,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM="
+          "Value": "sha256-hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14="
         }
       ]
     },
     {
-      "Route": "_framework/FirstBlazorApp.9vu3cff0xo.pdb.gz",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-9vu3cff0xo.gz",
+      "Route": "_framework/FirstBlazorApp.bs4pieh5np.pdb.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-bs4pieh5np.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12867,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23913"
+          "Value": "23914"
         },
         {
           "Name": "Content-Type",
@@ -12875,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y=\""
+          "Value": "\"h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12897,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9vu3cff0xo"
+          "Value": "bs4pieh5np"
         },
         {
           "Name": "label",
@@ -12905,168 +12905,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FirstBlazorApp.fgh82z9lyc.wasm",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fgh82z9lyc"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FirstBlazorApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FirstBlazorApp.fgh82z9lyc.wasm",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-fgh82z9lyc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000086244071"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11594"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fgh82z9lyc"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FirstBlazorApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/FirstBlazorApp.fgh82z9lyc.wasm.gz",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-fgh82z9lyc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fgh82z9lyc"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/FirstBlazorApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4="
+          "Value": "sha256-h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM="
         }
       ]
     },
@@ -13081,7 +12920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31456"
+          "Value": "31460"
         },
         {
           "Name": "Content-Type",
@@ -13089,11 +12928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM=\""
+          "Value": "\"hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:01 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13103,18 +12942,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM="
+          "Value": "sha256-hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14="
         }
       ]
     },
     {
       "Route": "_framework/FirstBlazorApp.pdb",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-9vu3cff0xo.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-bs4pieh5np.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041816509"
+          "Quality": "0.000041814761"
         }
       ],
       "ResponseHeaders": [
@@ -13124,15 +12963,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23913"
+          "Value": "23914"
         },
         {
           "Name": "ETag",
-          "Value": "\"tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y=\""
+          "Value": "\"h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13152,19 +12991,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM=\""
+          "Value": "W/\"hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+ygHDCphvo2RpEOWzVrEmFI54o+30lhk7X4p8yvyKMM="
+          "Value": "sha256-hYE5UWfFGIiKUpJmCO/OPKVAddG/Oz/IyVFT7ongN14="
         }
       ]
     },
     {
       "Route": "_framework/FirstBlazorApp.pdb.gz",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-9vu3cff0xo.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\w0gsb1zsqe-bs4pieh5np.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13173,7 +13012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23913"
+          "Value": "23914"
         },
         {
           "Name": "Content-Type",
@@ -13181,11 +13020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y=\""
+          "Value": "\"h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13203,7 +13042,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tw37CjliMRVJZwaIW9JAfEezGsshQ4ewp/zLl1kZk1Y="
+          "Value": "sha256-h0v8dQLFIoKrjSamSRZAx/8Dj4Zu+TFXhmYr0eHm7eM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FirstBlazorApp.tcc8i4y8df.wasm",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\FirstBlazorApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:43:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcc8i4y8df"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FirstBlazorApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FirstBlazorApp.tcc8i4y8df.wasm",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-tcc8i4y8df.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000086244071"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11594"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcc8i4y8df"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FirstBlazorApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/FirstBlazorApp.tcc8i4y8df.wasm.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-tcc8i4y8df.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcc8i4y8df"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/FirstBlazorApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI="
         }
       ]
     },
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8=\""
+          "Value": "\"jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:01 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,13 +13240,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8="
+          "Value": "sha256-jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M="
         }
       ]
     },
     {
       "Route": "_framework/FirstBlazorApp.wasm",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-fgh82z9lyc.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-tcc8i4y8df.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13265,11 +13265,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4=\""
+          "Value": "\"GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8=\""
+          "Value": "W/\"jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oXdN19uiDqybKgdtI6OANf608bUV8VO29xL+gCMecI8="
+          "Value": "sha256-jfKI27ci4QAx5jpDD+ohehtbgVMyeScnX6B1IQck2/M="
         }
       ]
     },
     {
       "Route": "_framework/FirstBlazorApp.wasm.gz",
-      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-fgh82z9lyc.gz",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\FirstBlazorApp\\FirstBlazorApp\\obj\\Debug\\net9.0\\compressed\\v4y5y29f72-tcc8i4y8df.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4=\""
+          "Value": "\"GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 29 Dec 2024 11:51:02 GMT"
+          "Value": "Mon, 30 Dec 2024 09:43:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-47GKBKkZJxHgU9lxULLDCU1ArrVMM/r+xSm97qm3cX4="
+          "Value": "sha256-GVvzJ8haFrlk59h9Mw8i05WLQT/galAX1yd1YpwGIkI="
         }
       ]
     },
