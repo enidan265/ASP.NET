@@ -56,7 +56,17 @@
   <li><b>JavaScript, AJAX, JQuery</b></li>
   </p>
 
-Topics weiter ergänzen, wenn gelernt 
-
-  
+  <p>
+  <li><b>Blazor</b></li>
+  <ul>
+    <li>Blazor vs. Razor</li>
+    <li>Blazor Components</li>
+    <li>Blazor Built in Components</li>
+    <li>Data Binding in Blazor</li>
+    <li>Event Handling</li>
+    <li>Forms & Validation</li>
+    <li>Using WebAPIs</li>
+    <li>JavaScript Interoperability</li>
+  </ul>
+  </p>  
 </ul>

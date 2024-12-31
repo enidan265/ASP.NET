@@ -12,6 +12,7 @@ wwwroot\css\open-iconic\README.md
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\pdf_logo.png
+wwwroot\js\CustomScripts.js
 wwwroot\uploads\Screenshot 2024-12-23 230946.png
 wwwroot\uploads\Screenshot 2024-12-23 231101.png
 wwwroot\uploads\test1.txt

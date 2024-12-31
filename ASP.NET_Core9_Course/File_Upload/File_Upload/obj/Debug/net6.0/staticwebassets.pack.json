@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\images\\pdf_logo.png"
     },
     {
+      "Id": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+      "PackagePath": "staticwebassets\\js\\CustomScripts.js"
+    },
+    {
       "Id": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\uploads\\Screenshot 2024-12-23 230946.png",
       "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-12-23 230946.png"
     },

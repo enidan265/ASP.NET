@@ -180,6 +180,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vjvj063c44"},{"Name":"integrity","Value":"sha256-hdHVdUJZfCq32ya5n7L2h/5MqUsGDslgIBIfPoxRkMc="},{"Name":"label","Value":"_content/File_Upload/images/pdf_logo.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11525"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hdHVdUJZfCq32ya5n7L2h/5MqUsGDslgIBIfPoxRkMc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 30 Dec 2024 12:10:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/File_Upload/js/CustomScripts.cnov3go0a9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\CustomScripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cnov3go0a9"},{"Name":"integrity","Value":"sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="},{"Name":"label","Value":"_content/File_Upload/js/CustomScripts.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"423"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 31 Dec 2024 11:17:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/File_Upload/js/CustomScripts.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\CustomScripts.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"423"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 31 Dec 2024 11:17:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/File_Upload/uploads/Screenshot 2024-12-23 230946.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Screenshot 2024-12-23 230946.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

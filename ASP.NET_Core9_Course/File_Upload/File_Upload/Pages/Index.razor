@@ -2,6 +2,8 @@
 @using File_Upload.Services;
 @inject IFileUpload fileUpload;
 
+@inject IJSRuntime JS;
+
 <div class="col-6">
     <h1>File Upload in Blazor</h1>
     <div class="form-group">
@@ -84,4 +86,5 @@
             labelText = $"Upload Failed due to {ex.Message}";
         }
     }
+
 }

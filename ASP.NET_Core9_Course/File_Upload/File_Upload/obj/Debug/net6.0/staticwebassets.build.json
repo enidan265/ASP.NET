@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1kheY+Ky7dCruJSIjb/QfLFASmQhF7I7iAjRrApAG/A=",
+  "Hash": "8WdLp5j2stOiqSLwudZQz+Qf9syTwXJdqbvW/EmrHlY=",
   "Source": "File_Upload",
   "BasePath": "_content/File_Upload",
   "Mode": "Default",
@@ -351,6 +351,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pdf_logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+      "SourceId": "File_Upload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\",
+      "BasePath": "_content/File_Upload",
+      "RelativePath": "js/CustomScripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cnov3go0a9",
+      "Integrity": "iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\CustomScripts.js"
     },
     {
       "Identity": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\uploads\\Screenshot 2024-12-23 230946.png",
@@ -1747,6 +1768,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hdHVdUJZfCq32ya5n7L2h/5MqUsGDslgIBIfPoxRkMc="
+        }
+      ]
+    },
+    {
+      "Route": "js/CustomScripts.cnov3go0a9.js",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:17:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnov3go0a9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/CustomScripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="
+        }
+      ]
+    },
+    {
+      "Route": "js/CustomScripts.js",
+      "AssetFile": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:17:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="
         }
       ]
     },

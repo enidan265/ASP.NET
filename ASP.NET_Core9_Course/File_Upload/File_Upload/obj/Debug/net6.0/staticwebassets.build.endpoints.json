@@ -1233,6 +1233,88 @@
       ]
     },
     {
+      "Route": "js/CustomScripts.cnov3go0a9.js",
+      "AssetFile": "js/CustomScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:17:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cnov3go0a9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="
+        },
+        {
+          "Name": "label",
+          "Value": "js/CustomScripts.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/CustomScripts.js",
+      "AssetFile": "js/CustomScripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 11:17:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDHli6YnkWJw8gwwRUUaQaRExdVsudBAoEoYEA/RPvY="
+        }
+      ]
+    },
+    {
       "Route": "uploads/Screenshot 2024-12-23 230946.png",
       "AssetFile": "uploads/Screenshot 2024-12-23 230946.png",
       "Selectors": [],

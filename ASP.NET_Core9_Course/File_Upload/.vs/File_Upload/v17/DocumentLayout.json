@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\wwwroot\\js\\customscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\wwwroot\\js\\customscripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\services\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\pages\\downloads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\pages\\downloads.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|c:\\users\\nadin\\source\\repos\\asp.net\\asp.net_core9_course\\file_upload\\file_upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2B7427-8B45-4F78-960A-4C2C296206E6}|File_Upload\\File_Upload.csproj|solutionrelative:file_upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileUpload.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Services\\FileUpload.cs",
-              "RelativeDocumentMoniker": "File_Upload\\Services\\FileUpload.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Services\\FileUpload.cs",
-              "RelativeToolTip": "File_Upload\\Services\\FileUpload.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:33:37.78Z",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "File_Upload\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "File_Upload\\Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:06:05.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "File_Upload\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\Index.razor",
-              "RelativeToolTip": "File_Upload\\Pages\\Index.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Title": "CustomScripts.js",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+              "RelativeDocumentMoniker": "File_Upload\\wwwroot\\js\\CustomScripts.js",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+              "RelativeToolTip": "File_Upload\\wwwroot\\js\\CustomScripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T10:59:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Downloads.razor",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\Downloads.razor",
+              "RelativeDocumentMoniker": "File_Upload\\Pages\\Downloads.razor",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Pages\\Downloads.razor",
+              "RelativeToolTip": "File_Upload\\Pages\\Downloads.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T10:16:14.621Z",
+              "WhenOpened": "2024-12-31T10:45:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDownload.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Services\\FileDownload.cs",
+              "RelativeDocumentMoniker": "File_Upload\\Services\\FileDownload.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Services\\FileDownload.cs",
+              "RelativeToolTip": "File_Upload\\Services\\FileDownload.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:30:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Program.cs",
+              "RelativeDocumentMoniker": "File_Upload\\Program.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\ASP.NET\\ASP.NET_Core9_Course\\File_Upload\\File_Upload\\Program.cs",
+              "RelativeToolTip": "File_Upload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:45:10.867Z",
               "EditorCaption": ""
             }
           ]
